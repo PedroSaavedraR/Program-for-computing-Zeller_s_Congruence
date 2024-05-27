@@ -48,7 +48,7 @@ int main() {
 
     h = (q+(13*(m+1))/5+k+k/4+j/4+5*j)%7;
 
-    printf("The day %d/%d/%d was ", q, m, year);
+    printf("The day %d/%d/%d was/is going to be ", q, m, year);
 
     switch (h) {
         case 0:
