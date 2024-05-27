@@ -1,6 +1,6 @@
 <span style="color:green"><h1>"Program for computing Zeller's Congruence", my first gitHub upload.</h1></span>
 
-This is an interesting algorith that uses module theory and congruences to compute on what day of the week will a certain date (DD,MM,YYYY) coincide.
+This is an interesting algorithm that uses module theory and congruences to compute on what day of the week will a certain date (DD,MM,YYYY) coincide.
 
 
 <span style="color:red"><h2>Zeller's Congruence</h2></span>
