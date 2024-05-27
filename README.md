@@ -5,7 +5,7 @@ This is an interesting algorith that uses module theory and congruences to compu
 
 <span style="color:red"><h2>Zeller's Congruence</h2></span>
 
-\[ h = (q + \left\lfloor\frac{{13(m+1)}}{5}\right\rfloor + K + \left\lfloor\frac{K}{4}\right\rfloor + \left\lfloor\frac{J}{4}\right\rfloor + 5J) \mod 7 \]
+<p>h = (q + ⌊(13(m + 1)) / 5⌋ + K + ⌊K / 4⌋ + ⌊J / 4⌋ - 2J) mod 7</p>
 
 Where:
 
